@@ -1,5 +1,7 @@
 Current project I`m working on : https://cult-mapfrontend.vercel.app<br>
 
+Check out my Portfolio website : https://www.fabianweighold.site
+
 🚀 About Me
 Hi there! 👋 I'm a passionate Software Engineer and Data Enthusiast with background in Computer Science and also Mechanical Engineering. Currently pursuing my Master's in Computer Science, I’m driven by the challenge of solving real-world problems with modern technologies<br>
 
