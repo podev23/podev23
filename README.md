@@ -48,8 +48,6 @@ Tools: Linux, Git, VS Code, Cursor
 I enjoy building production-like infrastructure for side projects, treating every deployment as an opportunity to refine automation, reliability, and cloud-architecture design.
 
 🤝 Let’s Connect
-
-🔗 ### 🤝 Let’s Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fweighold/)
 
 📫 Always open to collaboration, DevOps discussions, and open-source projects around infrastructure, reliability, and automation.
